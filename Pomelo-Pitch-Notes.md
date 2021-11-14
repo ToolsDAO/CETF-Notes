@@ -158,6 +158,21 @@ This phrasing is kind of confusing. I would use a full sentence here. Like “We
 
 
 <br/>
+
+
+<br/>
+<br/>
+<br/>
+
+Note: All of these are just ideas for exploratory, development, and educational purposes only. It is not financial advice or official or anything like that, etc. Just ideas. It occured to me after writing that I don't know if there are applicable regulations around how financial assets and products are communicated, so that is something that may be very helpful to consider in the future. Maybe I'm overthinking it, not sure, but better to be safe than sorry and it felt like it might be helpful to write this and consider more about this. 
+
+<br/>
+
+Perhaps one of the best ways to communicate for both regulatory compliance and generally provide great experiences for users/investors/developers is simply to communicate precisely, thorougly, clearly, and responsibly. Write with transparency, care, and always aim to help. As always really. Perhaps it's helpful to be understated as well, though it also might be helpful to communicate more emphatically or stylishly if it is well done. Clearly explaining how 'x' works and the risks/benefits (etc) can be very helpful. Whether there are applicable regulations or not I feel like these are helpful things to consider when communicating to make the best experiences possible for everyone.
+
+
+<br/>
+<br/>
 <br/>
 
 
@@ -175,8 +190,4 @@ Feel free to ignore or share any comments 🙂
 
 
 
-
-Note: All of these are just ideas for exploratory, development, and educational purposes only. It is not financial advice or official or anything like that, etc. Just ideas. It occured to me after writing that I don't know if there are applicable regulations around how financial assets and products are communicated, so that is something that may be very helpful to consider in the future. Maybe I'm overthinking it, not sure, but better to be safe than sorry and it felt like it might be helpful to write this and consider more about this. 
-<br/>
-Perhaps one of the best ways to communicate for both regulatory compliance and generally provide great experiences for users/investors/developers is simply to communicate precisely, thorougly, clearly, and responsibly. Write with transparency, care, and always aim to help. As always really. Perhaps it's helpful to be understated as well, though it also might be helpful to communicate more emphatically or stylishly if it is well done. Clearly explaining how 'x' works and the risks/benefits (etc) can be very helpful. Whether there are applicable regulations or not I feel like these are helpful things to consider when communicating to make the best epxeirences possible for everyone.
 
