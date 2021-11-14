@@ -4,11 +4,11 @@
 
 
 
-Here are some thoughts how we might be able to improve the description. 
+Here are some thoughts about how we might be able to improve the description for the pitch. 
 
 I’m trying something new and posting my thoughts in a GitHub markdown file. I think this might be a very helpful workflow to reduce cluttering the telegram chat, organize better, and experiment with some great GitHub features such as commenting, version control, forking, issues and pull requests. 
 
-Note that I haven’t had much time to refine or deeply reflect on everything I wrote here, so there might be some bad ideas or improvement needed, but I think that there are some good ideas that are worth exploring (and I figure that Github may enable a more iterative and collaborative process).
+Note that I haven’t had much time to refine or deeply reflect on everything I wrote here, so there might be some bad ideas or improvement needed, but I think that there are some good ideas that are worth exploring (and I figure that Github may enable a more iterative and collaborative process for less refined ideas).
 
 Feel free to ignore or share any comments on Github, Telegram, or however else 🙂
 
@@ -47,20 +47,22 @@ What if you could buy an entire fund of the best EOS tokens with just one token?
 
 <br/>
 <br/>
+<br/>
 
 
 ![](CETF%20Pomelo%20Pitch%20Notes/01BBB0B3-8D37-4D50-A35D-7E1ACB9BFFFF.png)
 
 The second sentence here sounds kind of rough. I think it would help to avoid ending the sentence with ‘instead of you.’ Instead, it may be helpful to focus on how it can make it ‘easier for you’.  I feel like a more complete sentence would help here too.
 
-For example: ‘Tokens in the fund are bought and sold by professional fund managers so you can be confident in your investments and focus on doing what you love’.
+For example: ‘Tokens in the fund are bought and sold by expert fund managers so you can invest easily and focus on doing what you love"
 
-Something like that.
+Something like that, though maybe better to keep it simpler and more understated. Just throwing around some ideas.
 
 
 <br/>
+-
 <br/>
-
+<br/>
 
 I feel like it might also be helpful to reiterate the word ‘fund’ here, rather than repeating the word ‘token’ with qualifiers.
 
@@ -70,18 +72,19 @@ Instead of something like:
 
 Maybe it would be best like:
 
-“What if you could just buy one token that contains many other tokens? Introducing… the Fund Token! Tokens in the fund are bought and sold by professional fund managers so you can be confident in your investments and focus on doing what you love!”
+“What if you could just buy one token that contains many other tokens? You can do this with a Fund Token! Tokens in the fund are bought and sold by expert fund managers so you can invest in many assets easily and focus on doing what you love”
 
 
 <br/>
+-
 <br/>
-
+<br/>
 
 That’s probably not the best way to say it but something like that might be helpful to simplify some of these sentences and provide a simple term for CETF assets.
 
-On a related sidenote, I’ve always felt like the term Exchange Traded Fund is kind of abstract and difficult to understand. I’m not sure why the word ‘exchange’ needs to be there and the word ‘traded’ also seems unnecessary and uses a strange non-personal tense. 
+On a somewhat related sidenote, I’ve always felt like the term Exchange Traded Fund is kind of abstract and difficult to understand. I’m not sure why the word ‘exchange’ needs to be there and the word ‘traded’ also seems unnecessary and uses a strange non-personal tense. I guess the non-personal tense makes sense because the managers are doing the trading and not the investors, but idk just sounds kind of akward.
 
-I think the name CETF sounds great, but maybe calling the tokens more colloquially as Fund Tokens rather than ETFs might be helpful to simplify the value proposition for many people.
+I think the name CETF sounds awesome, but maybe calling the tokens more colloquially as Fund Tokens rather than ETFs might be helpful to simplify the value proposition for many people. Though then again many people know what ETFs are already and it does go well with the name CETF so maybe I'm just overthinking it here. Just some thoughts.
 
 <br/>
 <br/>
@@ -101,7 +104,7 @@ Maybe better to write this like:
 
 Maybe it’s also better to focus more on the investor instead of the product. For example, this sentence could say something like:
 
- “We have created a token called EOSETF where you can easily invest in 13 EOS mainnet tokens!”
+ “We have created a token called EOSETF where you can easily invest in 13 EOS mainnet tokens.”
 
 
 
@@ -114,7 +117,7 @@ Maybe it’s also better to focus more on the investor instead of the product. F
 
 I would end this sentence on a more positive and exciting note. Not getting rekt is great lol, but I think it’s helpful to end the paragraph with more optimism and excitement.
 
-Maybe it would be helpful to add an additional sentence about how fund managers who closely follow the EOS ecosystem can make the most of subtle market trends to maximize returns and create as much value as possible for investors. Something like that.
+Maybe it would be helpful to add an additional sentence about how fund managers who closely follow the EOS ecosystem can make the most of subtle market trends to maximize returns and create as much value as possible for investors. Or optimize decisions and maximize ROI. Something like that.
 
 
 
@@ -128,6 +131,8 @@ Maybe it would be helpful to add an additional sentence about how fund managers 
 It might be clearer to rephrase these sentences to something like this: 
 
 Since traders are naturally incentivized to arbitrage when prices deviate, the price of EOSETF is essentially pegged to the prices of the underlying assets in the fund.
+
+Since traders are naturally incentivized to arbitrage when prices deviate, the price of EOSETF has been essentially pegged to the prices of the underlying assets in the fund.
 
 
 
@@ -167,4 +172,11 @@ At some point it might be helpful to copy/paste the entire pitch onto a new mark
 <br/>
 
 Feel free to ignore or share any comments 🙂
+
+
+
+
+Note: All of these are just ideas for exploratory, development, and educational purposes only. It is not financial advice or official or anything like that, etc. Just ideas. It occured to me after writing that I don't know if there are applicable regulations around how financial assets and products are communicated, so that is something that may be very helpful to consider in the future. Maybe I'm overthinking it, not sure, but better to be safe than sorry and it felt like it might be helpful to write this and consider more about this. 
+<br/>
+Perhaps one of the best ways to communicate for both regulatory compliance and generally provide great experiences for users/investors/developers is simply to communicate precisely, thorougly, clearly, and responsibly. Write with transparency, care, and always aim to help. As always really. Perhaps it's helpful to be understated as well, though it also might be helpful to communicate more emphatically or stylishly if it is well done. Clearly explaining how 'x' works and the risks/benefits (etc) can be very helpful. Whether there are applicable regulations or not I feel like these are helpful things to consider when communicating to make the best epxeirences possible for everyone.
 
