@@ -26,9 +26,7 @@ This statement isn’t really true.
 
 You don’t need to answer the third question to invest in EOS based tokens. 
 
-Sometimes it’s best to just invest and figure out when to sell sometime later.
-
-Sometimes it’s best to hold tokens indefinitely 🙂
+Sometimes it’s best to just invest and figure out when to sell sometime later. Sometimes it’s best to hold tokens indefinitely 🙂
 
 
 
