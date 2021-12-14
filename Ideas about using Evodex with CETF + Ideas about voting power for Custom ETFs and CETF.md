@@ -14,7 +14,10 @@ Most of the notes were transcribed via voice so there’s many typos and grammat
 
 I just read through everything quickly again and made some edits where I saw errors and also added a few notes with updated thoughts. The big edits have  asterisks*.
 
-The sequencing can be improved too, I’m not sure if the first ideas are the best ideas and some of the best ideas are towards the end.
+The sequencing can be improved too, I’m not sure if the first ideas are the best ideas and some of the best ideas are towards the end. 
+
+
+Also I just remembered that markdown files in Github do not retain line break spacing unless you manually use the <br > command. This makes it more difficult to read. To make it easier to read i will upload a PDF file now.
 
 
 Overall I think evodex could be very helpful for:
@@ -47,7 +50,8 @@ Hope it helps! 🙂
 
 
 
-
+<br/>
+<br/>
 
 
 Do more research into evodex and consider if I should suggest using it for the ETFs, between pools like eos + eosetf . 
